@@ -1,0 +1,33 @@
+/*  styles.css */
+
+h1 {
+    color: deeppink;
+    background-color: aliceblue;
+    font-size: 50px;
+}
+
+h2 {
+    color: blue;
+    background-color: cyan;
+}
+
+ul {
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+
+ol {
+    color: darkorange;
+    background-color: black;
+}
+
+p {
+    color: darkblue;
+    background-color: coral;
+}
+
+a {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
